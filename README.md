@@ -1,5 +1,3 @@
 # Calendar
-## THIS IS WORK IN PROGRESS
-This app was made as a little project, so I don't reccomend using it.
-
-
+## THIS IS A WORK IN PROGRESS
+This is a little project that im working on, so I don't recommend using it.
