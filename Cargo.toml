@@ -8,3 +8,6 @@ author = "MaxTheSyntax"
 
 [dependencies]
 chrono = { version = "0.4", features = ["unstable-locales"] }
+json = "0.12.4"
+ics = "0.5.8"
+colored = "2.0.0"
