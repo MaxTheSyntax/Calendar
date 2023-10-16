@@ -1,12 +1,13 @@
 {
-    "name": "John Doe",
+    "event": "Bday",
     "age": 43,
-    "address": {
-        "street": "10 Downing Street",
-        "city": "London"
+    "date": {
+        "date": "30102023",
+        "time": "1230"
     },
     "phones": [
         "+44 1234567",
         "+44 2345678"
-    ]
+    ],
+    "description": "Bday party for Jane"
 }

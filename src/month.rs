@@ -6,7 +6,6 @@ pub fn main() {
     //let events_file_path = "/home/maxthesyntax/code/rust/Calendar/src/events.json";
     //let events = fs::read_to_string(events_file_path)
     //    .expect("Unable to read file");
-    println!("test");
     let time = Local::now();
     let month_names: [&str; 12] = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
     let month_name = (time.month() - 1) as usize;   

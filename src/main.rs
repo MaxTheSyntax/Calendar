@@ -2,6 +2,7 @@ use chrono::{Datelike, Timelike, Local};
 use std::io::stdin;
 
 mod month;
+mod events;
 
 pub fn main() {
     let mut input_string;
@@ -32,7 +33,7 @@ pub fn main() {
     if input_string.trim().to_lowercase() == "month" {
         month::main();
     }   else if input_string.trim().to_lowercase() == "events" {
-        println!("test")
+        events::main();
     }
     }
 }
